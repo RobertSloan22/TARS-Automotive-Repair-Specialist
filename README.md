@@ -147,6 +147,8 @@ If you're interested in contributing, testing, or integrating:
 
 Open an issue
 Reach out via GitHub
+<img width="1918" height="1107" alt="image" src="https://github.com/user-attachments/assets/3a9b7cc6-6eaf-4111-8818-c0bd934f5110" />
+
 <img width="1918" height="1125" alt="image" src="https://github.com/user-attachments/assets/4674c2ac-490d-4fd4-9868-f539ca84ce0a" />
 <img width="1916" height="1150" alt="image" src="https://github.com/user-attachments/assets/f338f692-5764-45c4-bf5e-1d6160725e78" />
 
